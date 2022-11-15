@@ -1,5 +1,5 @@
 # Home-Inventory-Manager-Project
-<br>
+
 ### Problem statement
 How does one calculate the worth of the House Hold goods and equipment's when taking a Household Insurance policy.
 
